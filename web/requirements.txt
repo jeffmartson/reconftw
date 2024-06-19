@@ -30,7 +30,7 @@ requests
 six
 soupsieve
 sqlparse
-urllib3>=1.26.4
+urllib3>=2.2.2
 validators
 vine
 wcwidth
